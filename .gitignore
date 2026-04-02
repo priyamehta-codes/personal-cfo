@@ -18,3 +18,12 @@ snapshots/
 output/
 .venv/
 venv/
+
+# Spectra app data
+.spectra/
+
+# Spectra / Claude Code (local dev config, not part of the project)
+.spectra/
+openspec/
+.claude/
+CLAUDE.md
